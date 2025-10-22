@@ -1,0 +1,4 @@
+
+Determinants of default and probability of default in loan by survival time analysis and statistical Machine Learning algorithms in python.
+Determinants of default and probability of default in loan by survival time analysis and statistical Machine Learning algorithms in python.
+In this project, I have estimated default of loan by Machine Learning algorithm such as Logistic Regression and Cox regression analysis for loans survival time by Python. As well as I used Python for estimating Pearson correlation and point biserial correlation coefficients among continuous explanatory variables and discrete variables. In addition, I have used Pandas, Numpy, Scipy.stats, seaborn and Matplotlib.pyplot for preprocessing and EDA for data which includes 58 variables and more than 5000 rows. The complete result of my work is available as PDF format.
